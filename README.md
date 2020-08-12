@@ -1,4 +1,6 @@
-# Stock 
+# Stock
+Get data from Yahoo finance and display it in chart
+
 pandas_datareader package import data from many sources like yahoo, google fnance, fed and etc
 bokeh help to paint a model
 
